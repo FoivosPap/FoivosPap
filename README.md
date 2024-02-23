@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello world 👋
+
+ Currently working on Data Science and Machine Learning projects.
+ 
 
 <!--
 **FoivosPap/FoivosPap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
