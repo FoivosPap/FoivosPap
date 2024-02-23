@@ -1,6 +1,6 @@
 ### Hello world 👋
 
- Currently working on Data Science and Machine Learning projects.
+ Currently working on Data Science/Analytics projects.
  
 
 <!--
